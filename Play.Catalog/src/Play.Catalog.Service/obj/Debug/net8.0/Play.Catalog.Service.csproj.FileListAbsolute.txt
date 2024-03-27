@@ -32,3 +32,16 @@ C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalo
 C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net8.0\Play.Catalog.Service.pdb
 C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net8.0\Play.Catalog.Service.genruntimeconfig.cache
 C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net8.0\ref\Play.Catalog.Service.dll
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\Snappier.dll
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Nivso\Desktop\יהלום\Tal\21.03.24\microservices-project\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll

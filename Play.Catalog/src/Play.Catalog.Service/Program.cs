@@ -1,3 +1,7 @@
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization;
+using MongoDB.Bson.Serialization.Serializers;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -5,6 +9,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+//Confuration
+BsonSerializer.RegisterSerializer(new GuidSerializer(BsonType.String));
+BsonSerializer.RegisterSerializer(new DateTimeOffsetSerializer(BsonType.String));
+
 
 var app = builder.Build();
 app.MapControllers();
