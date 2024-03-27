@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Play.Catalog.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e5db4be24a87732c8848aad10239e4264b029f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fee358133f3a6d739381b98b446257007618a66f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Play.Catalog.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Play.Catalog.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
